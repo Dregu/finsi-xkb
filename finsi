@@ -72,7 +72,7 @@ xkb_symbols "kotoistus" {
     key <AC09> { [  l,               L,                dead_stroke,           dead_currency         ] };
     key <AC10> { [  odiaeresis,      Odiaeresis,       oslash,                Oslash                ] };
     key <AC11> { [  adiaeresis,      Adiaeresis,       ae,                    AE                    ] };
-    key <BKSL> { [  apostrophe,      asterisk,         dead_caron,            dead_breve            ] };
+    key <BKSL> { [  apostrophe,      asterisk,         bar,                   dead_breve            ] };
 
     key <LSGT> { [  less,            greater,          bar,                   NoSymbol              ] };
     key <AB01> { [  z,               Z,                ezh,                   EZH                   ] };
